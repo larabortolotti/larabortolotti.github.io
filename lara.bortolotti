@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Testsite</title>
+  </head>
+  <body>
+     <h1>Fakten über mich</h1>
+     <p>
+     Hier werden Fakten über mich stehen.
+     <br>
+     <br>
+     Ich heiße Lara, und bin 15 Jahre alt.
+     </p>
+        <h2>Meine Lieblingssachen!</h2>
+     <p>
+        <em>Ein paar Listen.</em>
+     </p>
+        <h3>Meine Lieblings Beschäftigungen</h3>
+     <ul>
+       <li>Fahrrad fahren</li>
+       <li>schwimmen</li>
+    </ul>
+        <h3>Meine Lieblings Essen</h3>
+    <ol>
+      <li>Sushi</li>
+      <li>Nudeln</li>
+      <li>Eis</li>
+    </ol>
+    <h2>Mein Lieblingstier</h2>
+    <a href="https://de.wikipedia.org/wiki/Otter">
+      Otter wiki
+      <br>
+      Otter sind meine absoluten Lieblingstiere. Ich finde Sie sind extrem süß.
+      <br>
+      Otter sind meiner Meinung nach die süßesten Tiere.
+      <br>
+    </a>
+    <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Loutre_des_pyrenees_baronnies_2004.jpg">
+    <img alt="Bild eines Otters auf einem schwimmenden Holzstamm">
+    <img src="https://blog.wwf.de/wp-content/uploads/2016/07/ThinkstockPhotos-93815926-WWF-NatureAlert-Fischotter.jpg">
+    <img alt="Bild von einem Otter mit offenem Mund"
+  </body>
+</html>
