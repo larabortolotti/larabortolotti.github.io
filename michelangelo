@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Famous Michelangelo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="mystyle.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  </style>
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>Michelangelo</h1>
+  <p>One of the most famous sculptor</p>
+</div>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+</nav>
+
+<div class="container" style="margin-top:30px">
+  <div class="row">
+    <div class="col-sm-4"
+      <h3>Some Links</h3>
+      <p>Lorem ipsum dolor sit ame.</p>
+      <ul class="nav nav-pills flex-column">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Active</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://de.wikipedia.org/wiki/Michelangelo">Wikipedia Michealangelo</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://klexikon.zum.de/wiki/Michelangelo">Kindererklärung</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li>
+      </ul>
+      <hr class="d-sm-none">
+    </div>
+    <div class="col-sm-8">
+      <h2>About his life</h2>
+      <h5>Biography</h5>
+      <div class= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/777px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg"> Michelangelo
+      </div>
+      <p>Michelangelo Buonarroti was born on March 6, 1475 in Caprese in the Casentino.
+        The second son of Justice of the Peace and Mayor Lionardo di Buonarroti Simoni was to achieve fame as a sculptor, poet, painter and architect.
+        Michelangelo grew up in Florence and attended Latin school there. In 1488 his father signed an apprenticeship contract with Domenico and Davide Ghirlandaio for his son. A year later it was Lorenzo de ’Medici who noticed the talented student and accepted him into his city palace.
+        There Michelangelo studied ancient statues and the first noteworthy works were created, including the bas-reliefs "Mary with Child at the Staircase" and "Battle of the Centaurs".
+After Lorenzo de ’Medici's death in 1492, Michelangelo went back to his father for two years and worked on an oversized Hercules. In anticipation of the fall of the Medici, Michelangelo went to Bologna and Venice in 1494 and became familiar with the work of Jacopo della Quercias. Several sculptures were created under this influence. Including the works “Light-bearing angel” and “Saint Petronius and Saint Proculus”, worked as free figures. Between 1496 and 1501 Michelangelo stayed in Rome, where outstanding sculptures such as “Drunken Bacchus” were created. In 1501 Michelangelo went back to Florence and worked on the colossal statue "David" made from a piece of marble, which he completed three years later. The Bruges Madonna, created in 1503, is an impressive example of the High Renaissance. The work can be seen in the Notre-Dame church in Bruges. The only surviving painting from this period is the “Holy Family” tondo.
+With Michelangelo's return to Rome in 1505, the artist began a new creative period. The draft for the tomb of Pope Julius II is considered to be the first work. Michelangelo decided to focus more on sculpture. At first he was therefore not very impressed to take over the painting of the Sistine Chapel. In 1508 Michelangelo began with frescoes and processed the physical exertion of working on the design of the Sistine Chapel in writing in sonnets. In 1513 Michelangelo began work on his design for the Julius tomb back on. Michelangelo received his first architectural commission in 1520 with the facade design of the Church of San Lorenzo in Florence. However, the church remained unfinished due to a lack of financial resources. Michelangelo planned the New Sacristy of San Lorenzo as a total work of art. He let his experience and knowledge in architecture, painting and sculpture flow. At the same time he realized the design of the stairs and the planning of the rooms in the Biblioteca Laurenziana in Florence.
+After the Medici were expelled from Florence in 1527, Michelangelo tried his hand at building a fortress. In 1536 Michelangelo was back in Rome and worked on the frescoes and the depiction of the “Last Judgment” in the Sistine Chapel. Another outstanding work from this last creative period are the monumental paintings in the Pauline Chapel in the Vatican.
+During this time, Michelangelo formed a deep friendship with the poet Vittoria Colonna. Michelangelo dedicated numerous lyrical texts to her. Michelangelo's creative phase reached its climax when he was appointed master builder of St. Peter's Basilica in 1547. In 1558 Michelangelo completed a wooden model of the dome of the cathedral. The work on St. Peter's Basilica took up Michelangelo's work and continued until his death on February 18, 1564. Michelangelo was buried in the church of Santa Croce in his hometown of Florence.
+        <br>
+      <h2>His most famous works</h2>
+      <h5>The best known creations</h5>
+      <div class="fakeimg">Fake Image</div>
+      <p>
+        <ol>
+          <li>David of Michelangelo</li>
+          <li>Sistine Chapel ceiling</li>
+          <li>The creation of Adam</li>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>made by Lara Bortolotti <br>
+  email: bortolavi@gmail.com</p>
+</div>
+
+</body>
+</html>
+
